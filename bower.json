@@ -1,0 +1,34 @@
+{
+  "name": "angular-filter-bytes-to-nice",
+  "main": "angular-filter-bytes-to-nice.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/theahindle/angular-filter-bytes-to-nice",
+  "authors": [
+    "Ashley Hindle <me@theahindle.com>"
+  ],
+  "description": "Converts bytes (int) to x KB/x MB/x GB/xTB",
+  "keywords": [
+    "angular",
+    "filter",
+    "bytes",
+    "kilobytes",
+    "gigabytes",
+    "megabytes",
+    "kb",
+    "gb",
+    "mb",
+    "tb",
+    "pb"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.28"
+  }
+}
