@@ -3,7 +3,8 @@ Filter to convert bytes to nice (X MB, X GB, X TB)
 
 
 ## Installation
-bower install theahindle/angular-filter-bytes-to-nice
+`bower install theahindle/angular-filter-bytes-to-nice`
+
 Add to `<head>`:
 ```
 <script src="components/angular-filter-bytes-to-nice/angular-filter-bytes-to-nice.js"></script>
